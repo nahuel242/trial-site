@@ -15,7 +15,7 @@ function Visitor() {
 
   return (
     <div>
-      <p>Number of visitors: {visitors} </p>
+      <p>Visitors counter: {visitors} </p>
       <button
         onClick={() => {
           effect();
