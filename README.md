@@ -11,7 +11,7 @@ yarn install
 ```
 
 ## Deployment
-This application is hosted in [vercel](https://vercel.com/) and it’s configured to continuously deploy new changes in the main branch. 
+This application is hosted in [vercel](https://vercel.com/) and it’s configured to continuously deploy new changes in the main branch. The live version of the site can be found at [https://trial-site.vercel.app/](https://trial-site.vercel.app/)
 Please check Vercel [documentation](https://vercel.com/docs/concepts/git) for more details.
 
 ![vercel-deployment](https://vercel.com/_next/image?url=%2Fstatic%2Fdocs%2Fconcepts%2Fgit%2Fgit-push.png&w=3840&q=75)
